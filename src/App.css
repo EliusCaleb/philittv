@@ -22,3 +22,6 @@ body{
   grid-gap:0.2em;
   justify-content: center;
 }
+h2{
+  background-color: antiquewhite;
+}
